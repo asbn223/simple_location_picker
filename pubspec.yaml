@@ -1,6 +1,6 @@
 name: simple_location_picker
 description: A Simple Location Picker for Flutter using OpenStreetMap. Pick any location from openstreetmaps or use it to display a fixed location.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/hashirabdulbasheer/simple_location_picker
 
 environment:
